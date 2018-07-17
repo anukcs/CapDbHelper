@@ -1,0 +1,8 @@
+{
+  "name": "CapDbHelper",
+  "app_id": "d4b52fff",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
