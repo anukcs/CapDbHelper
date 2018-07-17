@@ -1,2 +1,0 @@
-# CapDbHelper
-CapDbHelper
